@@ -1,6 +1,6 @@
 # Repositório do Curso de Java
 
-Este repositório contém o código-fonte para as atividades e aulas semanais do curso de Java.
+Este repositório contém o código-fonte para as atividades e aulas semanais do curso de Java, segunda parte da residência.
 
 ## Estrutura do Repositório
 
